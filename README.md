@@ -5,6 +5,6 @@ HTML
 CSS
 JavaScript
 
-As a coder, I have tried my best to make it as much similar to original design. 
+As a coder, I have tried my best to make it similar to original design. 
 
 I'll try to make it fully responsive in future. 
